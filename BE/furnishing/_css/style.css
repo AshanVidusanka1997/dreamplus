@@ -1,0 +1,160 @@
+#navbarSupportedContent{
+	margin-left: 100px;
+}
+#logotext{
+    margin-right: 100px;
+    font-size: 18px;
+	font-family: helvetica;
+}
+#topicunder{
+	margin: 0px;
+	margin-left: -10px;
+	margin-bottom: -5px;
+	font-size: 11px;
+}
+
+#hotline{
+	width: 400px;
+	text-align: right;
+}
+#hotlinetext{
+	color: black;
+
+}
+#contenttext1{
+	text-align: center;
+	font-size: 18px;
+}
+#contenttext2{
+	
+	font-size: 18px;
+}
+#banner{
+	
+	text-align: center;
+	
+}
+
+
+
+#category-inner{
+	text-align: center;
+	font-family: helvetica;
+}
+
+.button {
+    
+	border-radius: 0;
+  border-color: #03142b;
+  background-color: white;
+  border-style: solid;
+  color: black;
+  padding: 5px 10px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 14px;
+  margin: 4px 2px;
+  -webkit-transition-duration: 0.4s; /* Safari */
+    transition-duration: 0.4s;
+
+  
+}
+
+ .button:hover {
+    
+  border-radius: 0;
+  border-color: #03142b;
+  background-color: #03142b;
+  border-style: solid;
+  color: white;
+  padding: 5px 10px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 14px;
+  margin: 4px 2px;
+
+}
+
+
+
+#subtopic2{
+	text-align: center;
+}
+
+button{
+
+    float: right;
+    background-color: white;
+    border: none;
+    padding: 5px 16px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 12px;    
+    background-color: white; 
+    color: black; 
+    border: 1px solid #03142b;
+     -webkit-transition-duration: 0.4s; /* Safari */
+    transition-duration: 0.4s;
+}
+button:hover{
+    background-color: #03142b;
+    border: 1px solid #03142b;
+    color: white;
+}
+
+#detail{
+	color: black;
+}
+
+.footer {
+ 
+  left: 0;
+  bottom: 0;
+  width: 100%;
+   background-color: #03142b;
+  color: white;
+  text-align: center;
+}
+#text-3{
+	text-align: left;
+}
+
+.widgettitle{
+	margin-left: 25px;
+}
+
+
+#fot{
+	font-family: helvetica;
+	color: #adadad;
+}
+
+
+#bot{
+	margin: 0px;
+
+}
+
+
+#site-b-text{
+	position: fixed;
+	z-index: 1;
+	padding: 15px;
+	background-color: #03142b;
+	color: white;
+	
+	right: 0;
+}
+#site-b-ptag{
+	margin: 0px;
+	font-size: 13px;
+	
+}
+
+#navbarMain{
+    color: white;
+    background-color: #03142b;
+}
