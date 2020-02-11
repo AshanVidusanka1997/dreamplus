@@ -9,7 +9,7 @@
 
           <div class="col-lg-5 col-md-6">
             <div class="about-img">
-              <img src="img/1.jpg" alt="">
+              <img src="img/aboutus1.jpg" alt="">
             </div>
           </div>
 
@@ -27,7 +27,7 @@
                 <li><i class="ion-android-checkmark-circle"></i>No. 12, Old Road, Pannipitiya,Colombo,Srilanka</li>
                 <li><i class="ion-android-checkmark-circle"></i>275/1 Adarsha Handiya Horana,SriLanka(Operation Office)</li>
                 <li><i class="ion-android-checkmark-circle"></i>office@dreamplussl.com</li>
-                <li><i class="ion-android-checkmark-circle"></i>+94 76 554 5244</li>
+                <li><i class="ion-android-checkmark-circle"></i>+94 76 554 5244 ,  +94 34 314 1200</li>
               </ul>
             </div>
           </div>

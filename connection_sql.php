@@ -6,10 +6,10 @@
  * and open the template in the editor.
  */
 $servername = 'localhost';
-$username = 'root';
-$password = '';
-$port = 10060;
-$dbname = 'kfh';
+$username = 'dreamplu';
+$password = '0Qs20Pfa1k.)OQ';
+$port = '';
+$dbname = 'dreamplu_dream';
 
 
 $conn = new PDO("mysql:host=$servername;dbname=$dbname", $username, $password);

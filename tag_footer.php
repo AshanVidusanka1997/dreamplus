@@ -16,7 +16,7 @@
 
                   <div class="footer-info">
                     <h4>DreamPlus Solutions</h4>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+                    <p>I think architecture could be understood as the construction of realities, or the construction of worlds.
                    </p>
                   </div>
 
@@ -27,8 +27,7 @@
                  
                   <div class="footer-newsletter">
                     <h4>Our Newsletter</h4>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-                    tempor.</p>
+                    <p>Construction is an important front for solidifying the foundations of a thriving country and creating bases for the people's happy life!</p>
                     <form action="" method="post">
                       <input type="email" name="email"><input type="submit"  value="Subscribe">
                     </form>
@@ -60,7 +59,7 @@
                       No. 12, Old Road, <br>
                       Pannipitiya,Colombo,<br>
                       Srilanka<br>
-                      <strong>Phone:</strong>+94 76 554 5244<br>
+                      <strong>Phone:</strong>+94 76 554 5244 ,<br>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp +94 34 314 1200<br>
                       <strong>Email:</strong>office@dreamplussl.com<br>
                     </p>
                   </div>
@@ -87,7 +86,8 @@
 
       </div>
     </div>
-<div class="container">
+
+    <div class="container">
 <!-- s -->
           <div class="copyright">
             &copy; Copyright <strong>Ash Tech Super</strong>. All Rights Reserved
@@ -103,15 +103,6 @@
           </div>
         </div>
       </div>
-        <!-- <div class="col-lg-6">
-          <nav class="footer-links text-lg-right text-center pt-2 pt-lg-0">
-            <a href="#intro" class="scrollto">Home</a>
-            <a href="#about" class="scrollto">About</a>
-            <a href="#">Privacy Policy</a>
-            <a href="#">Terms of Use</a>
-          </nav>
-        </div> -->
-
   </footer><!-- #footer -->
 
   <a href="#" class="back-to-top"><i class="fa fa-chevron-up"></i></a>

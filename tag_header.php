@@ -1,7 +1,7 @@
  <!--==========================
   Header
   ============================-->
-  <header id="header">
+  <header id="header"><meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 
     <div id="topbar">
       <div class="container">
@@ -19,7 +19,7 @@
       <div class="logo float-left">
         <!-- Uncomment below if you prefer to use an image logo -->
         <!-- <h3 class="text-light"><a href="#intro" class="scrollto"><span>Kithsiri Furnishing House</span></a></h3> -->
-         <h3 style="color: white"><b>DreamPlus Solutions</b></h3>
+         <h4 style="color: black"><a style="font-size: 34px;" href="index.php" style="color: Black" >DreamPlus Solutions</a></h4>
         <!-- <a href="#header" class="scrollto"><img src="img/logo.png" alt="" class="img-fluid"></a> -->
       </div>
 
@@ -40,7 +40,7 @@
                       $sql = "select * from category";
 
                       foreach ($conn->query($sql) as $row) {
-                        echo "<li><a onclick=\"goToCat('" . $row['Category_ID'] . "');\">" . $row['Category'] . "</a></li>";
+                        echo "<li><font color=\"red\"><a onclick=\"goToCat('" . $row['Category_ID'] . "');\">" . $row['Category'] . "</a></font></li>";
                       }
 
                      
@@ -62,7 +62,7 @@
             </ul>
           </li>
      <!--      <li ><a href="FeedBack.php">foreign Agents</a></li> -->
-          <li ><a href="FeedBack.php">FeedBack</a></li>
+          <li ><a href="Feedback.php">FeedBack</a></li>
           <li><a href="contactus.php">Contact Us</a></li>
         </ul>
       </nav><!-- .main-nav -->

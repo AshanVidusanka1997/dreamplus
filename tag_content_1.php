@@ -5,9 +5,10 @@
     <div class="container d-flex h-100">
       <div class="row justify-content-center align-self-center">
         <div class="col-md-6 intro-info order-md-first order-last">
-          <h2>Rapid Solutions<br>for Your <span>Business!</span></h2>
+          <h2><font color="white">STOP PLANING.<br></font>
+          <span>START BUILDING.</span></span></h2>
           <div>
-            <a href="store.php" class="btn-get-started scrollto">Store</a>
+            <a href="aboutus.php" class="btn-get-started scrollto">About US</a>
           </div>
         </div>
   

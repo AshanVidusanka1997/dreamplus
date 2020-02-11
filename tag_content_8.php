@@ -6,7 +6,7 @@
     <section id="testimonials">
       <div class="container">
 
-        <header class="section-header">
+        <header class="section-header"><meta http-equiv="Content-Type" content="text/html; charset=utf-8">
           <h3>FeedBack</h3>
         </header>
 
@@ -45,7 +45,7 @@
 
         <div class="row justify-content-center">
           <div class="col-lg-8"> 
-            <div class="owl-carousel testimonials-carousel wow fadeInUp">
+            <div id="owl-demo" class="owl-carousel testimonials-carousel wow fadeInUp">
                         <?php
                   require_once ("connection_sql.php");
                   
@@ -79,3 +79,23 @@
 
       </div>
     </section><!-- #testimonials -->
+    
+    <script>
+                        $(document).ready(function() {
+                 
+                  var owl = $("#owl-demo");
+                 
+                  owl.owlCarousel({
+                      items:1,
+                    loop:true,
+                    margin:10,
+                    autoplay:true,
+                    autoplayTimeout:2000,
+                    autoplayHoverPause:true,
+                    navigation : true,
+                    singleItem : true,
+                    transitionStyle : "fade"
+                  });
+                 
+                });
+    </script>

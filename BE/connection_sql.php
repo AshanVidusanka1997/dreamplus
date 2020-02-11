@@ -5,11 +5,11 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-$servername= 'localhost';
-$username = 'root';
-$password = '';
-$port = 10060;
-$dbname = 'kfh';
+$servername = 'localhost';
+$username = 'dreamplu';
+$password = '0Qs20Pfa1k.)OQ';
+$port = '';
+$dbname = 'dreamplu_dream';
 
 
 $conn = new PDO("mysql:host=$servername;dbname=$dbname", $username, $password);
